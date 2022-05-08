@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\bin\Debug\Mega-Desk-Helfrich.exe.config
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\bin\Debug\Mega-Desk-Helfrich.exe
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\bin\Debug\Mega-Desk-Helfrich.pdb
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.form1.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Form2.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Properties.Resources.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.exe
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.pdb
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Form3.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Form4.resources
