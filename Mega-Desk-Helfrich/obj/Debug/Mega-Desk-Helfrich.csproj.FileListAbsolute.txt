@@ -12,3 +12,6 @@ C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Me
 C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.pdb
 C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Form3.resources
 C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega_Desk_Helfrich.Form4.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\Mega-Desk-Helfrich\Mega-Desk-Helfrich\obj\Debug\Mega-Desk-Helfrich.csproj.CopyComplete
